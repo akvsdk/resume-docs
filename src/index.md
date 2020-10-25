@@ -25,7 +25,7 @@ contact:
 download:
   title: 下载PDF格式简历
   icon: fas fa-download fa-fw
-  url: https://github.com/xaoxuu/resume-docs
+  url: https://file.941103.xyz:6789/cv.pdf
 ---
 
 {% raw %}
