@@ -8,6 +8,7 @@ description:  简历
 resume_title: 蒋渝庆的简历
 # 应聘者姓名
 name: 蒋渝庆
+avatar: https://file.941103.xyz:6789/XHS_1613051122325.jpg
 # 联系方式
 contact:
   - icon: fas fa-globe-asia
@@ -29,14 +30,6 @@ download:
 ---
 
 {% raw %}
-<grid>
-<avatar><img src="https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png"></avatar>
-<h1>我的简历</h1>
-<center>
-<br>
-</center>
-<br>
-</grid>
 {% endraw %}
 
 

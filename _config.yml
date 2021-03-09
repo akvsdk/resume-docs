@@ -161,7 +161,7 @@ deploy:
 - type: git
   repo: 
     github: 'git@github.com:akvsdk/resume.git'
-    vps: 'ssh://root@blog.94j1ang.xyz:2223/~/hexo.git'
+    vps: 'ssh://root@cv.941103.xyz:2223/~/hexo.git'
   branch: master
   
 feed:
