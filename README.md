@@ -23,7 +23,7 @@ nvm npm_mirror https://npm.taobao.org/mirrors/npm/
    nvm use 12.18.3  // 使用指定版本的nodejs
    ```
 
-   ## （可选）全局安装Hexo
+   ## 全局安装Hexo
 
    ```
    npm install hexo-cli -g
@@ -46,6 +46,17 @@ npm i
 3. 本地测试效果
 
 ```
-npm serve
+npm start
 ```
 
+4. 生成静态文件
+
+```
+hexo g
+```
+
+5. 部署到git仓库
+
+```
+hexo d
+```
